@@ -1,0 +1,25 @@
+{
+  "name": "cleditor_fork",
+  "version": "0.0.0",
+  "authors": [
+    "aeroslav <aeroslav89@gmail.com>"
+  ],
+  "description": "trying to fork cleditor as bower package",
+  "main": "jquery.cleditor.min.js",
+  "keywords": [
+    "wysiwyg"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery.cleditor.css": "./",
+    "buttons.gif": "./images",
+    "toolbar.gif": "./images"
+  },
+}
